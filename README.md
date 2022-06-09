@@ -5,6 +5,7 @@ Has a Variety of Starting Points for your In Game AI for enemies and allies with
 This Project is being provided under the CC-BY License. If you're using this in your Project, you must credit us with the following names in your credits section:
 
 Sabeer Kibria
+
 Maheer Kibria
 
 Please reach out to us when you're about to release your project at credit@9dimensionstudios.com if you use this in your final project.
